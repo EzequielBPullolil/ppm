@@ -27,6 +27,8 @@ ppm remove <dep>
 ppm list <dep>
 ```
 
+All of these actions will create a file called package.json, which will contain all the project dependencies along with their versions. Additionally, it will include a section called scripts that allows you to associate a keyword with a specific script
+
 
 
 ---
